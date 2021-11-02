@@ -1,7 +1,5 @@
 # Todo App
 
-So here you are! We need your help with a small Todo App. We already setup a brand new project for you that already contains a very basic Vue.js setup.
-Your task is now to finish the Todo App by completing the features to add, edit and delete todos by using [JSONplaceholder](https://jsonplaceholder.typicode.com/).
 
 ## Technical starting point
 
@@ -18,13 +16,11 @@ Our team was already able to complete the following:
 - [x] Do all your business logic, API Calls, inside the folder named `core`.
 - [x] Complete the CRUD features in the GUI and make sure they are reflected in the `vuex` store.
 - [x] Write concise commit messages.
-- [ ] Submit your git repository link to frontend.tech@brimore.com and describe your changes precisely.
+
 
 ## Bonus
-
-- [ ] Add unit tests using [Jest](https://jestjs.io/), and [Vue-Test-Utils](https://next.vue-test-utils.vuejs.org/)
 - [x] Add [TypeScript](https://typescriptlang.org)
-- [ ] Document your UI components with [StoryBook](https://storybook.js.org/docs/vue/writing-docs/introduction).
+
 
 ## Please note
 
